@@ -12,6 +12,5 @@ Fun Facts
 ✈️ Traveler: Traveling provides me with fresh perspectives and inspiration.
 🐱 Cats are my favorite companions—they keep me company while I work on my projects.
 
-## LeetCode Stats:
-![Leetcode Stats](https://leetcode.com/u/akhi1-s/))
+
 

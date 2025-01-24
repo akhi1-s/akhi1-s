@@ -13,5 +13,5 @@ Fun Facts
 🐱 Cats are my favorite companions—they keep me company while I work on my projects.
 
 ## LeetCode Stats:
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/akhi1-s)
+![Leetcode Stats](https://leetcode.com/u/akhi1-s/))
 

@@ -10,7 +10,7 @@ I don’t code bots.
 I train instincts.
 
 🧠 Robotics | 🦖 Autonomy | 🐍 NLP  
-Currently: Building at **Zeo ** — on a mission to make humanoids child-safe and emotionally aware.
+Currently: Building at Zeo  — on a mission to make humanoids child-safe and emotionally aware.
 
 ---
 
@@ -26,7 +26,7 @@ Currently: Building at **Zeo ** — on a mission to make humanoids child-safe an
 #### 💡 Fun Facts
 - I don’t chase trends — I architect futures.  
 - Coffee powers some. I run on purpose.  
-- I’d pick *Steins;Gate*, *Psycho-Pass*, *Cyberpunk: Edgerunners*, or *Erased* over Netflix any day.  
+- I’d pick *Steins;Gate*, *Psycho-Pass*, Cyberpunk: Edgerunners, or *Erased* over Netflix any day.  
 - My cats are more emotionally aware than half the bots online.  
 - Gardening clears my cache.
 
